@@ -1,0 +1,9 @@
+<recipe id="100">
+  <lineA>   </lineA>
+  <lineB>ABA</lineB>
+  <lineC>ABA</lineC>
+  <output>iron_bars</output>
+  <outputCount>12</outputCount>
+  <inputItems>iron_ingot stick</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

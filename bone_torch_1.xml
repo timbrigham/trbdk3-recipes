@@ -1,0 +1,9 @@
+<recipe id="100">
+  <lineA> A </lineA>
+  <lineB> B </lineB>
+  <lineC>   </lineC>
+  <output>torch</output>
+  <outputCount>4</outputCount>
+  <inputItems>coal bone</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

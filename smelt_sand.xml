@@ -1,0 +1,5 @@
+<recipe id="smelting">
+ <output>glass</output>
+ <outputCount>4</outputCount>
+ <inputItems>sandstone</inputItems>
+</recipe>

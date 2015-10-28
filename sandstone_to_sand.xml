@@ -1,9 +1,5 @@
-<recipe id="100">
-  <lineA>   </lineA>
-  <lineB> A </lineB>
-  <lineC>   </lineC>
+<recipe id="shapeless">
   <output>sand</output>
   <outputCount>4</outputCount>
   <inputItems>sandstone</inputItems>
-  <inputAssociation>A</inputAssociation>
 </recipe>

@@ -1,9 +1,9 @@
-<recipe id="3x3">
+<recipe id="100">
   <lineA>AAA</lineA>
   <lineB>ABA</lineB>
-  <lineC>AAA</lineC>
-  <output>end_stone</output>
+  <lineC>ABA</lineC>
+  <output>spawn_egg</output>
   <outputCount>1</outputCount>
-  <inputItems>stone nether_wart</inputItems>
+  <inputItems>rotten_flesh egg</inputItems>
   <inputAssociation>A B</inputAssociation>
 </recipe>

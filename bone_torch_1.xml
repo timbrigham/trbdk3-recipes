@@ -1,7 +1,6 @@
-<recipe id="100">
-  <lineA> A </lineA>
-  <lineB> B </lineB>
-  <lineC>   </lineC>
+<recipe id="2x2">
+  <lineA>A</lineA>
+  <lineB>B</lineB>
   <output>torch</output>
   <outputCount>4</outputCount>
   <inputItems>coal bone</inputItems>

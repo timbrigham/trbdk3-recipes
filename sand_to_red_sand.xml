@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>sand.1</output>
+  <outputCount>1</outputCount>
+  <inputItems>sand dye.1</inputItems>
+</recipe>

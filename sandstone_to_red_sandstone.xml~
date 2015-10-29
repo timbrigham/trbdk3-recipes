@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>sand</output>
+  <outputCount>4</outputCount>
+  <inputItems>sandstone</inputItems>
+</recipe>

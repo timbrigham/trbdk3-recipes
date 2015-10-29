@@ -1,9 +1,0 @@
-<recipe id="3x3">
-  <lineA>AAA</lineA>
-  <lineB>ABA</lineB>
-  <lineC>AAA</lineC>
-  <output>map</output>
-  <outputCount>9</outputCount>
-  <inputItems>leather map</inputItems>
-  <inputAssociation>A B</inputAssociation>
-</recipe>

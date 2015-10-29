@@ -1,9 +1,0 @@
-<recipe id="3x3">
-  <lineA>AAA</lineA>
-  <lineB>ABA</lineB>
-  <lineC>AAA</lineC>
-  <output>spawn_egg.61</output>
-  <outputCount>1</outputCount>
-  <inputItems>blaze_rod egg</inputItems>
-  <inputAssociation>A B</inputAssociation>
-</recipe>

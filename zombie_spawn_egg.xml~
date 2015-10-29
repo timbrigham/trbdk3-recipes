@@ -1,9 +1,0 @@
-<recipe id="100">
-  <lineA>AAA</lineA>
-  <lineB>ABA</lineB>
-  <lineC>ABA</lineC>
-  <output>spawn_egg</output>
-  <outputCount>1</outputCount>
-  <inputItems>rotten_flesh egg</inputItems>
-  <inputAssociation>A B</inputAssociation>
-</recipe>

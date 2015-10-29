@@ -1,8 +1,0 @@
-<recipe id="2x2">
-  <lineA>AB</lineA>
-  <lineB>BA</lineB>
-  <output>clay</output>
-  <outputCount>4</outputCount>
-  <inputItems>sand dye:15</inputItems>
-  <inputAssociation>A B</inputAssociation>
-</recipe>

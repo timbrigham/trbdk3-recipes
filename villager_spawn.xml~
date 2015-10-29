@@ -1,9 +1,0 @@
-<recipe id="3x3">
-  <lineA>CCC</lineA>
-  <lineB>ABA</lineB>
-  <lineC>CCC</lineC>
-  <output>spawn_egg.51</output>
-  <outputCount>1</outputCount>
-  <inputItems>bone egg leather</inputItems>
-  <inputAssociation>A B C</inputAssociation>
-</recipe>

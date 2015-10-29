@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>dye</output>
+  <outputCount>1</outputCount>
+  <inputItems>coal</inputItems>
+</recipe>

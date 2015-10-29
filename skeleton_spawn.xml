@@ -1,0 +1,9 @@
+<recipe id="3x3">
+  <lineA>AAA</lineA>
+  <lineB>ABA</lineB>
+  <lineC>AAA</lineC>
+  <output>spawn_egg.51</output>
+  <outputCount>1</outputCount>
+  <inputItems>bone egg</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

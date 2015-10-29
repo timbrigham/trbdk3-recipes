@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>obsidian</output>
+  <outputCount>1</outputCount>
+  <inputItems>lava_bucket water_bucket</inputItems>
+</recipe>

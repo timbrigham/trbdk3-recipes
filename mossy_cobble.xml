@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>mossy_cobblestone</output>
+  <outputCount>1</outputCount>
+  <inputItems>vine cobblestone</inputItems>
+</recipe>

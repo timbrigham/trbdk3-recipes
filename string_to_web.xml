@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>web</output>
+  <outputCount>1</outputCount>
+  <inputItems>string</inputItems>
+</recipe>

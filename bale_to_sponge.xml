@@ -1,0 +1,9 @@
+<recipe id="3x3">
+  <lineA> A </lineA>
+  <lineB>ABA</lineB>
+  <lineC> A </lineC>
+  <output>sponge</output>
+  <outputCount>1</outputCount>
+  <inputItems>hay_block water_bucket</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

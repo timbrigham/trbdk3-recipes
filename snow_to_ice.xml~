@@ -1,0 +1,9 @@
+<recipe id="3x3">
+  <lineA>AAA</lineA>
+  <lineB>ABA</lineB>
+  <lineC>AAA</lineC>
+  <output>end_stone</output>
+  <outputCount>1</outputCount>
+  <inputItems>stone nether_wart</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

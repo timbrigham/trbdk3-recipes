@@ -1,0 +1,8 @@
+<recipe id="2x2">
+  <lineA>AA</lineA>
+  <lineB>AA</lineB>
+  <output>ice</output>
+  <outputCount>4</outputCount>
+  <inputItems>snow</inputItems>
+  <inputAssociation>A</inputAssociation>
+</recipe>

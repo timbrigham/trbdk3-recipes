@@ -1,5 +1,0 @@
-<recipe id="shapeless">
-  <output>red_sandstone</output>
-  <outputCount>`</outputCount>
-  <inputItems>sandstone dye.1</inputItems>
-</recipe>

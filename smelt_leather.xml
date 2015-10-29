@@ -1,0 +1,5 @@
+<recipe id="smelting">
+ <output>leather</output>
+ <outputCount>1</outputCount>
+ <inputItems>rotten_flesh</inputItems>
+</recipe>

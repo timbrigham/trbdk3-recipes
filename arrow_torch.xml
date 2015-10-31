@@ -1,0 +1,8 @@
+<recipe id="2x2">
+  <lineA>A</lineA>
+  <lineB>B</lineB>
+  <output>torch</output>
+  <outputCount>4</outputCount>
+  <inputItems>coal arrow</inputItems>
+  <inputAssociation>A B</inputAssociation>
+</recipe>

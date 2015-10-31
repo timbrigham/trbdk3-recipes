@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>iron_door</output>
+  <outputCount>1</outputCount>
+  <inputItems>dark_oak_door iron_ingot iron_ingot iron_ingot</inputItems>
+</recipe>

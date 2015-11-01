@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>gunpowder</output>
+  <outputCount>1</outputCount>
+  <inputItems>wool reeds coal redstone</inputItems>
+</recipe>

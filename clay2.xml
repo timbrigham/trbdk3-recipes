@@ -1,0 +1,5 @@
+<recipe id="shapeless">
+  <output>clay_ball</output>
+  <outputCount>4</outputCount>
+  <inputItems>clay</inputItems>
+</recipe>

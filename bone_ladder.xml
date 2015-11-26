@@ -1,0 +1,9 @@
+<recipe id="3x3">
+  <lineA>A A</lineA>
+  <lineB>AAA</lineB>
+  <lineC>A A</lineC>
+  <output>ladder</output>
+  <outputCount>3</outputCount>
+  <inputItems>bone</inputItems>
+  <inputAssociation>A</inputAssociation>
+</recipe>

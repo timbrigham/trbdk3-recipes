@@ -1,0 +1,5 @@
+<recipe id="smelting">
+ <output>gold_ingot</output>
+ <outputCount>2</outputCount>
+ <inputItems>golden_sword</inputItems>
+</recipe>

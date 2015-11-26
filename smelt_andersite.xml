@@ -1,0 +1,5 @@
+<recipe id="smelting">
+ <output>stone.6</output>
+ <outputCount>1</outputCount>
+ <inputItems>stone.5</inputItems>
+</recipe>
